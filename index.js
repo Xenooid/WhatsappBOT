@@ -176,3 +176,5 @@ ${chat.participants.length}
             msg.reply(`*${apiData.data[randomNumber].text}*`);      
     }
 }); 
+
+e
