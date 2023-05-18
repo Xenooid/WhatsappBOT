@@ -5,7 +5,6 @@ const { getSystemErrorMap } = require('util');
 const { Configuration, OpenAIApi } = require("openai");
 const { url } = require('inspector');
 const axios = require("axios");
-const ytdl = require('ytdl-core');
 const { SocketAddress } = require('net');
 const configuration = new Configuration({
   apiKey: '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',
